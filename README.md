@@ -3,7 +3,7 @@ Contains design of an Ecommerce Database
 Cotributors:
 Lyndah Onyamasi - lonyamasi
 Nickson Onsombi - Nickysud-123
-Atalia- Boyani02
+Beverly Boyani- Boyani02
 Charity Tsatsawane - Tsatsawane
 Joe- Greymare3
 
